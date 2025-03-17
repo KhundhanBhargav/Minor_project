@@ -37,3 +37,10 @@ Pull requests are welcome! Feel free to improve the project.
 This project is open-source and available under the MIT License.
 
 <p align="center">🍎 Made with ❤️ for AI and Image Processing! 🍌</p> ```
+
+<h1>Home page</h1>
+<img src="./images/Homepage.png">
+<h1>Prediction page</h1>
+<img src="./images/Predictionpage.png">
+<h1>Quality check</h1>
+<img src="./images/qualitycheck.png">
