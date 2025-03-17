@@ -21,3 +21,19 @@ It is built using **Python, OpenCV, TensorFlow, and Flask**. The web interface a
 ✅ **Flask Web App** – Simple UI for image upload and classification.  
 
 ## 📂 Project Structure
+
+## 🎯 How It Works
+Upload an image of a fruit.
+The model preprocesses the image and applies CNN classification.
+The result is displayed, indicating whether the fruit is Fresh or Rotten.
+## 📌 Future Enhancements
+Improve model accuracy with a larger dataset.
+Add more fruit categories.
+Develop a mobile-friendly version.
+## 💡 Contributing
+Pull requests are welcome! Feel free to improve the project.
+
+📝 License
+This project is open-source and available under the MIT License.
+
+<p align="center">🍎 Made with ❤️ for AI and Image Processing! 🍌</p> ```
