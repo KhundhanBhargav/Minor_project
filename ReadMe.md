@@ -41,6 +41,6 @@ This project is open-source and available under the MIT License.
 <h1>Home page</h1>
 <img src="./images/Homepage.png">
 <h1>Prediction page</h1>
-<img src="./images/Predictionpage.png">
+<img src="./images/prediction.png">
 <h1>Quality check</h1>
 <img src="./images/qualitycheck.png">
